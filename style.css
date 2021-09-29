@@ -1,0 +1,53 @@
+div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
+
+li {
+  list-style-type: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.beats {
+  border: 2px solid lightgrey;
+  border-width: 1px;
+  width: 50%;
+  height: 50%;
+  padding-left: 30%;
+  padding-top: 30%;
+}
+.addidas {
+  border: 2px solid lightgrey;
+  border-width: 1px;
+  width: 50%;
+  height: 50%;
+  padding-left: 30%;
+  padding-top: 30%;
+}
+.amazon {
+  border: 2px solid lightgrey;
+  border-width: 1px;
+  width: 50%;
+  height: 50%;
+  padding-left: 30%;
+  padding-top: 30%;
+}
+.amazon a img {
+  width: 50%;
+}
+
+.apple {
+  border: 2px solid lightgrey;
+  border-width: 1px;
+  width: 50%;
+  height: 50%;
+  padding-left: 30%;
+  padding-top: 30%;
+}
